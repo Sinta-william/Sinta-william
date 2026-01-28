@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sinta-william
-- 👀 I’m interested in coding, AI?ML, tech, drawing, reading and music.
+- 👀 I’m interested in coding, AI/ML, tech, drawing, reading and music.
 - 🌱 I’m currently learning python(AI/ML) and javascript
 - 💞️ I’m looking to collaborate on projects that can be abel to change/slove propblems faced in the world at large.
 - 📫 How to reach me hyelsintw@gmail.com
